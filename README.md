@@ -1,16 +1,13 @@
-## Hi there 👋
+### Onur Yetkin Kapar
 
-<!--
-**OnurKapar/OnurKapar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & AI/RAG systems | 4th-year Computer Engineering student @ Ege University
 
-Here are some ideas to get you started:
+I'm currently focused on backend development and retrieval-augmented generation
+(RAG) systems. Recently completed a software engineering internship at
+**Intertech (InternTech 2026)**, where I built the RAG retrieval pipeline for a
+multi-agent AI financial advisor — vector search over financial documents, MCP
+tool integration, and an LLM-based orchestrator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working with:** Python, Java, C#, FastAPI, PostgreSQL, ChromaDB, React/TypeScript, Docker
+
+**Reach me:** [LinkedIn](https://linkedin.com/in/onuryetkin-kapar-661570382) · kaparonuryetkin@gmail.com
